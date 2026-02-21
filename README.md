@@ -55,14 +55,3 @@ Ensure you have the following installed on your system:
 
 That’s it—FastAPI will be listening (by default) on `http://localhost:8000`, MinIO on `http://localhost:9000` (console at `:9001`). You can now POST invoices to `http://localhost:8000/extract`.
 
-## 🤝 Contributing
-
-We welcome contributions to improve this project! Please fork the repository, create a feature branch, and submit a pull request for review.
-
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## 📧 Contact
-
-For questions or more information, please contact the project maintainer via email.
